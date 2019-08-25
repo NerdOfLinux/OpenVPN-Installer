@@ -5,7 +5,7 @@ Welcome to possibly the easiest OpenVPN installer ever. This script lets you con
 Pretty much all you need to do is run the script, and fill out some information. The defaults will be fine for most people, so if you're unsure, just use those. You can download and run the script by running the following as root:
 
 ```shell
-wget wget https://raw.githubusercontent.com/NerdOfLinux/OpenVPN-Installer/master/OpenVPN.sh
+wget https://raw.githubusercontent.com/NerdOfLinux/OpenVPN-Installer/master/OpenVPN.sh
 bash OpenVPN.sh
 ```
 
